@@ -43,7 +43,7 @@
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,spring,tailwind,postman,vite,react,postgresql" />
+          <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,spring,react,tailwind,postman,vite,postgresql,mongodb,aws" />
         </a>
       </p>
     </td>
@@ -54,7 +54,7 @@
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,notion,py,git,cpp,c,idea" />
+          <img src="https://skillicons.dev/icons?i=c,cpp,py,vscode,notion,git,idea,redis,kafka,docker,figma" />
         </a>
       </p>
     </td>
